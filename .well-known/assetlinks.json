@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.zbd.dosuja",
+    "package_name": "com.example.sectas",
     "sha256_cert_fingerprints":
     ["19:28:11:2E:7A:97:A7:F9:A3:E2:6C:49:A9:9C:53:8C:C5:2F:02:2F:95:83:42:2E:BE:F7:4A:96:59:B6:96:C8"]
   }
@@ -18,7 +18,7 @@
   "relation": ["delegate_permission/common.get_login_creds"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.zbd.dosuja",
+    "package_name": "com.example.sectas",
     "sha256_cert_fingerprints":
     ["19:28:11:2E:7A:97:A7:F9:A3:E2:6C:49:A9:9C:53:8C:C5:2F:02:2F:95:83:42:2E:BE:F7:4A:96:59:B6:96:C8"]
   }
